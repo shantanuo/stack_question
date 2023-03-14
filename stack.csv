@@ -1,0 +1,241 @@
+,id_x,mergecol_x,dummy,id_y,mergecol_y,distance
+1,1,arnie morton's of chicago435 s. la cienega blv.los angeles310/246-1501american,1,2,arnie morton's of chicago435 s. la cienega blvd.los angeles310-246-1501steakhouses,12
+863,2,arnie morton's of chicago435 s. la cienega blvd.los angeles310-246-1501steakhouses,1,1,arnie morton's of chicago435 s. la cienega blv.los angeles310/246-1501american,12
+1729,3,art's delicatessen12224 ventura blvd.studio city818/762-1221american,1,4,art's deli12224 ventura blvd.studio city818-762-1221delis,15
+2591,4,art's deli12224 ventura blvd.studio city818-762-1221delis,1,3,art's delicatessen12224 ventura blvd.studio city818/762-1221american,15
+3457,5,hotel bel-air701 stone canyon rd.bel air310/472-1211californian,1,6,bel-air hotel701 stone canyon rd.bel air310-472-1211californian,13
+4319,6,bel-air hotel701 stone canyon rd.bel air310-472-1211californian,1,5,hotel bel-air701 stone canyon rd.bel air310/472-1211californian,13
+5185,7,cafe bizou14016 ventura blvd.sherman oaks818/788-3536french,1,8,cafe bizou14016 ventura blvd.sherman oaks818-788-3536french bistro,8
+6047,8,cafe bizou14016 ventura blvd.sherman oaks818-788-3536french bistro,1,7,cafe bizou14016 ventura blvd.sherman oaks818/788-3536french,8
+6913,9,campanile624 s. la brea ave.los angeles213/938-1447american,1,10,campanile624 s. la brea ave.los angeles213-938-1447californian,8
+7775,10,campanile624 s. la brea ave.los angeles213-938-1447californian,1,9,campanile624 s. la brea ave.los angeles213/938-1447american,8
+8641,11,chinois on main2709 main st.santa monica310/392-9025french,1,12,chinois on main2709 main st.santa monica310-392-9025pacific new wave,15
+9503,12,chinois on main2709 main st.santa monica310-392-9025pacific new wave,1,11,chinois on main2709 main st.santa monica310/392-9025french,15
+10369,13,citrus6703 melrose ave.los angeles213/857-0034californian,1,14,citrus6703 melrose ave.los angeles213-857-0034californian,1
+10388,13,citrus6703 melrose ave.los angeles213/857-0034californian,1,33,patina5955 melrose ave.los angeles213/467-1108californian,15
+10389,13,citrus6703 melrose ave.los angeles213/857-0034californian,1,34,patina5955 melrose ave.los angeles213-467-1108californian,16
+11231,14,citrus6703 melrose ave.los angeles213-857-0034californian,1,13,citrus6703 melrose ave.los angeles213/857-0034californian,1
+11251,14,citrus6703 melrose ave.los angeles213-857-0034californian,1,33,patina5955 melrose ave.los angeles213/467-1108californian,16
+11252,14,citrus6703 melrose ave.los angeles213-857-0034californian,1,34,patina5955 melrose ave.los angeles213-467-1108californian,15
+13825,17,granita23725 w. malibu rd.malibu310/456-0488californian,1,18,granita23725 w. malibu rd.malibu310-456-0488californian,1
+14687,18,granita23725 w. malibu rd.malibu310-456-0488californian,1,17,granita23725 w. malibu rd.malibu310/456-0488californian,1
+22465,27,locanda veneta3rd st.los angeles310/274-1893italian,1,28,locanda veneta8638 w. third st.los angeles310-274-1893italian,11
+23327,28,locanda veneta8638 w. third st.los angeles310-274-1893italian,1,27,locanda veneta3rd st.los angeles310/274-1893italian,11
+24193,29,matsuhisa129 n. la cienega blvd.beverly hills310/659-9639asian,1,30,matsuhisa129 n. la cienega blvd.beverly hills310-659-9639seafood,7
+25055,30,matsuhisa129 n. la cienega blvd.beverly hills310-659-9639seafood,1,29,matsuhisa129 n. la cienega blvd.beverly hills310/659-9639asian,7
+27628,33,patina5955 melrose ave.los angeles213/467-1108californian,1,13,citrus6703 melrose ave.los angeles213/857-0034californian,15
+27629,33,patina5955 melrose ave.los angeles213/467-1108californian,1,14,citrus6703 melrose ave.los angeles213-857-0034californian,16
+27649,33,patina5955 melrose ave.los angeles213/467-1108californian,1,34,patina5955 melrose ave.los angeles213-467-1108californian,1
+28491,34,patina5955 melrose ave.los angeles213-467-1108californian,1,13,citrus6703 melrose ave.los angeles213/857-0034californian,16
+28492,34,patina5955 melrose ave.los angeles213-467-1108californian,1,14,citrus6703 melrose ave.los angeles213-857-0034californian,15
+28511,34,patina5955 melrose ave.los angeles213-467-1108californian,1,33,patina5955 melrose ave.los angeles213/467-1108californian,1
+32833,39,rex il ristorante617 s. olive st.los angeles213/627-2300italian,1,40,rex il ristorante617 s. olive st.los angeles213-627-2300nuova cucina italian,14
+33695,40,rex il ristorante617 s. olive st.los angeles213-627-2300nuova cucina italian,1,39,rex il ristorante617 s. olive st.los angeles213/627-2300italian,14
+36289,43,valentino3115 pico blvd.santa monica310/829-4313italian,1,44,valentino3115 pico blvd.santa monica310-829-4313italian,1
+37151,44,valentino3115 pico blvd.santa monica310-829-4313italian,1,43,valentino3115 pico blvd.santa monica310/829-4313italian,1
+39745,47,21 club21 w. 52nd st.new york212/582-7200american,1,48,21 club21 w. 52nd st.new york city212-582-7200american (new),12
+40086,47,21 club21 w. 52nd st.new york212/582-7200american,1,389,judson grill152 w. 52nd st.new york212/582-5252american,16
+40607,48,21 club21 w. 52nd st.new york city212-582-7200american (new),1,47,21 club21 w. 52nd st.new york212/582-7200american,12
+41274,48,21 club21 w. 52nd st.new york city212-582-7200american (new),1,715,arcadia21 e. 62nd st.new york city212-223-2900american (new),14
+41473,49,aquavit13 w. 54th st.new york212/307-7311continental,1,50,aquavit13 w. 54th st.new york city212-307-7311scandinavian,13
+42335,50,aquavit13 w. 54th st.new york city212-307-7311scandinavian,1,49,aquavit13 w. 54th st.new york212/307-7311continental,13
+43201,51,aureole34 e. 61st st.new york212/ 319-1660american,1,52,aureole34 e. 61st st.new york city212-319-1660american (new),13
+44063,52,aureole34 e. 61st st.new york city212-319-1660american (new),1,51,aureole34 e. 61st st.new york212/ 319-1660american,13
+44929,53,cafe lalo201 w. 83rd st.new york212/496-6031coffee bar,1,54,cafe lalo201 w. 83rd st.new york city212-496-6031coffeehouses,12
+45791,54,cafe lalo201 w. 83rd st.new york city212-496-6031coffeehouses,1,53,cafe lalo201 w. 83rd st.new york212/496-6031coffee bar,12
+53569,63,daniel20 e. 76th st.new york212/288-0033french,1,64,daniel20 e. 76th st.new york city212-288-0033french (new),12
+53856,63,daniel20 e. 76th st.new york212/288-0033french,1,351,ferrier29 e. 65th st.new york212/772-9000french,14
+54431,64,daniel20 e. 76th st.new york city212-288-0033french (new),1,63,daniel20 e. 76th st.new york212/288-0033french,12
+55297,65,dawat210 e. 58th st.new york212/355-7555asian,1,66,dawat210 e. 58th st.new york city212-355-7555indian,9
+55539,65,dawat210 e. 58th st.new york212/355-7555asian,1,308,bruno240 e. 58th st.new york212/688-4190italian,16
+55562,65,dawat210 e. 58th st.new york212/355-7555asian,1,331,chiam160 e. 48th st.new york212/371-2323asian,13
+55662,65,dawat210 e. 58th st.new york212/355-7555asian,1,431,otabe68 e. 56th st.new york212/223-7575asian,12
+56159,66,dawat210 e. 58th st.new york city212-355-7555indian,1,65,dawat210 e. 58th st.new york212/355-7555asian,9
+56814,66,dawat210 e. 58th st.new york city212-355-7555indian,1,721,darbar44 w. 56th st.new york city212-432-7227indian,14
+57025,67,felidia243 e. 58th st.new york212/758-1479italian,1,68,felidia243 e. 58th st.new york city212-758-1479italian,6
+57265,67,felidia243 e. 58th st.new york212/758-1479italian,1,308,bruno240 e. 58th st.new york212/688-4190italian,13
+57337,67,felidia243 e. 58th st.new york212/758-1479italian,1,380,il nido251 e. 53rd st.new york212/753-8450italian,15
+57887,68,felidia243 e. 58th st.new york city212-758-1479italian,1,67,felidia243 e. 58th st.new york212/758-1479italian,6
+60481,71,gotham bar & grill12 e. 12th st.new york212/620-4020american,1,72,gotham bar & grill12 e. 12th st.new york city212-620-4020american (new),12
+61343,72,gotham bar & grill12 e. 12th st.new york city212-620-4020american (new),1,71,gotham bar & grill12 e. 12th st.new york212/620-4020american,12
+63937,75,island spice402 w. 44th st.new york212/765-1737tel caribbean,1,76,island spice402 w. 44th st.new york city212-765-1737caribbean,10
+64799,76,island spice402 w. 44th st.new york city212-765-1737caribbean,1,75,island spice402 w. 44th st.new york212/765-1737tel caribbean,10
+66008,77,jo jo160 e. 64th st.new york212/223-5656american,1,421,monkey bar60 e. 54th st.new york212/838-2600american,15
+66018,77,jo jo160 e. 64th st.new york212/223-5656american,1,431,otabe68 e. 56th st.new york212/223-7575asian,15
+66048,77,jo jo160 e. 64th st.new york212/223-5656american,1,461,sfuzzi58 w. 65th st.new york212/873-3700american,16
+66073,77,jo jo160 e. 64th st.new york212/223-5656american,1,486,vong200 e. 54th st.new york212/486-9592american,14
+67393,79,la caravelle33 w. 55th st.new york212/586-4252french,1,80,la caravelle33 w. 55th st.new york city212-586-4252french (classic),16
+68255,80,la caravelle33 w. 55th st.new york city212-586-4252french (classic),1,79,la caravelle33 w. 55th st.new york212/586-4252french,16
+68258,80,la caravelle33 w. 55th st.new york city212-586-4252french (classic),1,82,la cote basque60 w. 55th st.new york city212-688-6525french (classic),16
+69982,82,la cote basque60 w. 55th st.new york city212-688-6525french (classic),1,80,la caravelle33 w. 55th st.new york city212-586-4252french (classic),16
+70849,83,le bernardin155 w. 51st st.new york212/489-1515french,1,84,le bernardin155 w. 51st st.new york city212-489-1515seafood,13
+71711,84,le bernardin155 w. 51st st.new york city212-489-1515seafood,1,83,le bernardin155 w. 51st st.new york212/489-1515french,13
+72804,85,les celebrites160 central park snew york212/484-5113french,1,313,cafe botanica160 central park snew york212/484-5120french,15
+76033,89,lutece249 e. 50th st.new york212/752-2225french,1,90,lutece249 e. 50th st.new york city212-752-2225french (classic),16
+76276,89,lutece249 e. 50th st.new york212/752-2225french,1,333,cite120 w. 51st st.new york212/956-7100french,16
+76294,89,lutece249 e. 50th st.new york212/752-2225french,1,351,ferrier29 e. 65th st.new york212/772-9000french,14
+76895,90,lutece249 e. 50th st.new york city212-752-2225french (classic),1,89,lutece249 e. 50th st.new york212/752-2225french,16
+77761,91,manhattan ocean club57 w. 58th st.new york212/ 371-7777seafood,1,92,manhattan ocean club57 w. 58th st.new york city212-371-7777seafood,7
+78623,92,manhattan ocean club57 w. 58th st.new york city212-371-7777seafood,1,91,manhattan ocean club57 w. 58th st.new york212/ 371-7777seafood,7
+79489,93,march405 e. 58th st.new york212/754-6272american,1,94,march405 e. 58th st.new york city212-754-6272american (new),12
+79685,93,march405 e. 58th st.new york212/754-6272american,1,290,alamo304 e. 48th st.new york212/ 759-0590mexican,16
+79881,93,march405 e. 58th st.new york212/754-6272american,1,486,vong200 e. 54th st.new york212/486-9592american,14
+80351,94,march405 e. 58th st.new york city212-754-6272american (new),1,93,march405 e. 58th st.new york212/754-6272american,12
+86401,101,oceana55 e. 54th st.new york212/759-5941seafood,1,102,oceana55 e. 54th st.new york city212-759-5941seafood,6
+87263,102,oceana55 e. 54th st.new york city212-759-5941seafood,1,101,oceana55 e. 54th st.new york212/759-5941seafood,6
+89857,105,petrossian182 w. 58th st.new york212/245-2214french,1,106,petrossian182 w. 58th st.new york city212-245-2214russian,13
+90719,106,petrossian182 w. 58th st.new york city212-245-2214russian,1,105,petrossian182 w. 58th st.new york212/245-2214french,13
+91585,107,picholine35 w. 64th st.new york212/724-8585mediterranean,1,108,picholine35 w. 64th st.new york city212-724-8585mediterranean,6
+92447,108,picholine35 w. 64th st.new york city212-724-8585mediterranean,1,107,picholine35 w. 64th st.new york212/724-8585mediterranean,6
+98497,115,san domenico240 central park snew york212/265-5959italian,1,116,san domenico240 central park s.new york city212-265-5959italian,7
+99359,116,san domenico240 central park s.new york city212-265-5959italian,1,115,san domenico240 central park snew york212/265-5959italian,7
+101953,119,seryna11 e. 53rd st.new york212/980-9393asian,1,120,seryna11 e. 53rd st.new york city212-980-9393japanese,12
+102312,119,seryna11 e. 53rd st.new york212/980-9393asian,1,479,tse yang34 e. 51st st.new york212/688-5447asian,15
+102815,120,seryna11 e. 53rd st.new york city212-980-9393japanese,1,119,seryna11 e. 53rd st.new york212/980-9393asian,12
+112321,131,union square cafe21 e. 16th st.new york212/243-4020american,1,132,union square cafe21 e. 16th st.new york city212-243-4020american (new),12
+113183,132,union square cafe21 e. 16th st.new york city212-243-4020american (new),1,131,union square cafe21 e. 16th st.new york212/243-4020american,12
+114303,133,virgil's152 w. 44th st.new york212/ 921-9494american,1,388,joe allen326 w. 46th st.new york212/581-6464american,16
+115777,135,chin's3200 las vegas blvd. slas vegas702/733-8899asian,1,136,chin's3200 las vegas blvd. s.las vegas702-733-8899chinese,8
+116200,135,chin's3200 las vegas blvd. slas vegas702/733-8899asian,1,559,mikado3400 las vegas blvd. slas vegas702/791-7111asian,13
+116639,136,chin's3200 las vegas blvd. s.las vegas702-733-8899chinese,1,135,chin's3200 las vegas blvd. slas vegas702/733-8899asian,8
+117281,136,chin's3200 las vegas blvd. s.las vegas702-733-8899chinese,1,778,moongate3400 las vegas blvd. s.las vegas702-791-7352chinese,14
+117505,137,coyote cafe3799 las vegas blvd. slas vegas702/891-7349southwestern,1,138,coyote cafe (las vegas)3799 las vegas blvd. s.las vegas702-891-7349southwestern,14
+118367,138,coyote cafe (las vegas)3799 las vegas blvd. s.las vegas702-891-7349southwestern,1,137,coyote cafe3799 las vegas blvd. slas vegas702/891-7349southwestern,14
+120961,141,palace court3570 las vegas blvd. slas vegas702/731-7547continental,1,142,palace court3570 las vegas blvd. s.las vegas702-731-7110french (new),15
+121823,142,palace court3570 las vegas blvd. s.las vegas702-731-7110french (new),1,141,palace court3570 las vegas blvd. slas vegas702/731-7547continental,15
+122689,143,second street grille200 e. fremont st.las vegas702/385-3232seafood,1,144,second street grill200 e. fremont st.las vegas702-385-6277pacific rim,15
+123551,144,second street grill200 e. fremont st.las vegas702-385-6277pacific rim,1,143,second street grille200 e. fremont st.las vegas702/385-3232seafood,15
+124417,145,steak house2880 las vegas blvd. slas vegas702/734-0410steak houses,1,146,steak house  the2880 las vegas blvd. s.las vegas702-734-0410steakhouses,8
+125279,146,steak house  the2880 las vegas blvd. s.las vegas702-734-0410steakhouses,1,145,steak house2880 las vegas blvd. slas vegas702/734-0410steak houses,8
+126145,147,tillerman2245 e. flamingo rd.las vegas702/731-4036seafood,1,148,tillerman  the2245 e. flamingo rd.las vegas702-731-4036steakhouses,13
+127007,148,tillerman  the2245 e. flamingo rd.las vegas702-731-4036steakhouses,1,147,tillerman2245 e. flamingo rd.las vegas702/731-4036seafood,13
+128758,150,abruzzi2355 peachtree rd. neatlanta404-261-8186italian,1,172,la grotta2637 peachtree rd. neatlanta404-231-1368italian,14
+134785,157,buckhead diner3073 piedmont roadatlanta404/262-3336american,1,158,buckhead diner3073 piedmont rd.atlanta404-262-3336american (new),10
+135647,158,buckhead diner3073 piedmont rd.atlanta404-262-3336american (new),1,157,buckhead diner3073 piedmont roadatlanta404/262-3336american,10
+138241,161,delectables1 margaret mitchell sq.atlanta404/681-2909american,1,162,delectables1 margaret mitchell sq.atlanta404-681-2909cafeterias,7
+139103,162,delectables1 margaret mitchell sq.atlanta404-681-2909cafeterias,1,161,delectables1 margaret mitchell sq.atlanta404/681-2909american,7
+145153,169,indigo coastal grill1397 n. highland ave.atlanta404/876-0676caribbean,1,170,indigo coastal grill1397 n. highland ave.atlanta404-876-0676eclectic,10
+146015,170,indigo coastal grill1397 n. highland ave.atlanta404-876-0676eclectic,1,169,indigo coastal grill1397 n. highland ave.atlanta404/876-0676caribbean,10
+147722,172,la grotta2637 peachtree rd. neatlanta404-231-1368italian,1,150,abruzzi2355 peachtree rd. neatlanta404-261-8186italian,14
+148609,173,mary mac's tea room224 ponce de leon ave.atlanta404/876-1800southern,1,174,mary mac's tea room224 ponce de leon ave.atlanta404-876-1800southern/soul,6
+149471,174,mary mac's tea room224 ponce de leon ave.atlanta404-876-1800southern/soul,1,173,mary mac's tea room224 ponce de leon ave.atlanta404/876-1800southern,6
+150337,175,nikolai's roof255 courtland st.  at harris st.atlanta404/221-6362continental,1,176,nikolai's roof255 courtland st.atlanta404-221-6362continental,16
+151199,176,nikolai's roof255 courtland st.atlanta404-221-6362continental,1,175,nikolai's roof255 courtland st.  at harris st.atlanta404/221-6362continental,16
+152065,177,pano's and paul's1232 w. paces ferry rd.atlanta404/261-3662international,1,178,pano's & paul's1232 w. paces ferry rd.atlanta404-261-3662american (new),15
+152927,178,pano's & paul's1232 w. paces ferry rd.atlanta404-261-3662american (new),1,177,pano's and paul's1232 w. paces ferry rd.atlanta404/261-3662international,15
+154658,180,ritz-carlton cafe (buckhead)3434 peachtree rd. neatlanta404-237-2700american (new),1,182,ritz-carlton dining room (buckhead)3434 peachtree rd. neatlanta404-237-2700american (new),11
+156382,182,ritz-carlton dining room (buckhead)3434 peachtree rd. neatlanta404-237-2700american (new),1,180,ritz-carlton cafe (buckhead)3434 peachtree rd. neatlanta404-237-2700american (new),11
+158977,185,toulouseb peachtree rd.atlanta404/351-9533french,1,186,toulouse293-b peachtree rd.atlanta404-351-9533french (new),11
+159839,186,toulouse293-b peachtree rd.atlanta404-351-9533french (new),1,185,toulouseb peachtree rd.atlanta404/351-9533french,11
+160705,187,veni vidi vici41 14th st.atlanta404/875-8424italian,1,188,veni vidi vici41 14th st.atlanta404-875-8424italian,1
+161567,188,veni vidi vici41 14th st.atlanta404-875-8424italian,1,187,veni vidi vici41 14th st.atlanta404/875-8424italian,1
+162433,189,alain rondelli126 clement st.san francisco415/387-0408french,1,190,alain rondelli126 clement st.san francisco415-387-0408french (new),7
+163295,190,alain rondelli126 clement st.san francisco415-387-0408french (new),1,189,alain rondelli126 clement st.san francisco415/387-0408french,7
+164161,191,aqua252 california st.san francisco415/956-9662seafood,1,192,aqua252 california st.san francisco415-956-9662american (new),13
+165023,192,aqua252 california st.san francisco415-956-9662american (new),1,191,aqua252 california st.san francisco415/956-9662seafood,13
+165889,193,boulevard1 mission st.san francisco415/543-6084american,1,194,boulevard1 mission st.san francisco415-543-6084american (new),7
+166751,194,boulevard1 mission st.san francisco415-543-6084american (new),1,193,boulevard1 mission st.san francisco415/543-6084american,7
+167617,195,cafe claude7 claude la.san francisco415/392-3505french,1,196,cafe claude7 claude ln.san francisco415-392-3505french bistro,9
+168479,196,cafe claude7 claude ln.san francisco415-392-3505french bistro,1,195,cafe claude7 claude la.san francisco415/392-3505french,9
+169345,197,campton place340 stockton st.san francisco415/955-5555american,1,198,campton place340 stockton st.san francisco415-955-5555american (new),7
+170207,198,campton place340 stockton st.san francisco415-955-5555american (new),1,197,campton place340 stockton st.san francisco415/955-5555american,7
+171073,199,chez michel804 northpointsan francisco415/775-7036french,1,200,chez michel804 north point st.san francisco415-775-7036californian,15
+171935,200,chez michel804 north point st.san francisco415-775-7036californian,1,199,chez michel804 northpointsan francisco415/775-7036french,15
+172801,201,fleur de lys777 sutter st.san francisco415/673-7779french,1,202,fleur de lys777 sutter st.san francisco415-673-7779french (new),7
+173663,202,fleur de lys777 sutter st.san francisco415-673-7779french (new),1,201,fleur de lys777 sutter st.san francisco415/673-7779french,7
+174529,203,fringale570 4th st.san francisco415/543-0573french,1,204,fringale570 fourth st.san francisco415-543-0573french bistro,12
+175391,204,fringale570 fourth st.san francisco415-543-0573french bistro,1,203,fringale570 4th st.san francisco415/543-0573french,12
+176257,205,hawthorne lane22 hawthorne st.san francisco415/777-9779american,1,206,hawthorne lane22 hawthorne st.san francisco415-777-9779californian,8
+177119,206,hawthorne lane22 hawthorne st.san francisco415-777-9779californian,1,205,hawthorne lane22 hawthorne st.san francisco415/777-9779american,8
+177985,207,khan toke thai house5937 geary blvd.san francisco415/668-6654asian,1,208,khan toke thai house5937 geary blvd.san francisco415-668-6654thai,5
+178847,208,khan toke thai house5937 geary blvd.san francisco415-668-6654thai,1,207,khan toke thai house5937 geary blvd.san francisco415/668-6654asian,5
+179713,209,la folie2316 polk st.san francisco415/776-5577french,1,210,la folie2316 polk st.san francisco415-776-5577french (new),7
+180575,210,la folie2316 polk st.san francisco415-776-5577french (new),1,209,la folie2316 polk st.san francisco415/776-5577french,7
+183169,213,masa's648 bush st.san francisco415/989-7154french,1,214,masa's648 bush st.san francisco415-989-7154french (new),7
+184031,214,masa's648 bush st.san francisco415-989-7154french (new),1,213,masa's648 bush st.san francisco415/989-7154french,7
+186625,217,plumpjack cafe3201 fillmore st.san francisco415/563-4755mediterranean,1,218,plumpjack cafe3127 fillmore st.san francisco415-563-4755american (new),13
+187487,218,plumpjack cafe3127 fillmore st.san francisco415-563-4755american (new),1,217,plumpjack cafe3201 fillmore st.san francisco415/563-4755mediterranean,13
+188353,219,postrio545 post st.san francisco415/776-7825american,1,220,postrio545 post st.san francisco415-776-7825californian,8
+189215,220,postrio545 post st.san francisco415-776-7825californian,1,219,postrio545 post st.san francisco415/776-7825american,8
+191809,223,rose pistola532 columbus ave.san francisco415/399-0499italian,1,224,rose pistola532 columbus ave.san francisco415-399-0499italian,1
+192671,224,rose pistola532 columbus ave.san francisco415-399-0499italian,1,223,rose pistola532 columbus ave.san francisco415/399-0499italian,1
+203080,236,cava3rd st.los angeles213/658-8898mediterranean,1,276,sofi3rd st.los angeles213/651-0346mediterranean,9
+237560,276,sofi3rd st.los angeles213/651-0346mediterranean,1,236,cava3rd st.los angeles213/658-8898mediterranean,9
+249499,290,alamo304 e. 48th st.new york212/ 759-0590mexican,1,93,march405 e. 58th st.new york212/754-6272american,16
+257602,299,barbetta321 w. 46th st.new york212/246-9171italian,1,429,orso322 w. 46th st.new york212/489-7212italian,14
+265005,308,bruno240 e. 58th st.new york212/688-4190italian,1,65,dawat210 e. 58th st.new york212/355-7555asian,16
+265007,308,bruno240 e. 58th st.new york212/688-4190italian,1,67,felidia243 e. 58th st.new york212/758-1479italian,13
+265320,308,bruno240 e. 58th st.new york212/688-4190italian,1,380,il nido251 e. 53rd st.new york212/753-8450italian,16
+265369,308,bruno240 e. 58th st.new york212/688-4190italian,1,429,orso322 w. 46th st.new york212/489-7212italian,15
+265373,308,bruno240 e. 58th st.new york212/688-4190italian,1,433,palio151 w. 51st. st.new york212/245-4850italian,16
+265387,308,bruno240 e. 58th st.new york212/688-4190italian,1,447,remi145 w. 53rd st.new york212/581-4242italian,15
+265426,308,bruno240 e. 58th st.new york212/688-4190italian,1,486,vong200 e. 54th st.new york212/486-9592american,16
+269340,313,cafe botanica160 central park snew york212/484-5120french,1,85,les celebrites160 central park snew york212/484-5113french,15
+284854,331,chiam160 e. 48th st.new york212/371-2323asian,1,65,dawat210 e. 58th st.new york212/355-7555asian,13
+285220,331,chiam160 e. 48th st.new york212/371-2323asian,1,431,otabe68 e. 56th st.new york212/223-7575asian,15
+285234,331,chiam160 e. 48th st.new york212/371-2323asian,1,445,rain100 w. 82nd st.new york212/501-0776asian,16
+285251,331,chiam160 e. 48th st.new york212/371-2323asian,1,462,shaan57 w. 48th st.new york212/ 977-8400asian,14
+286604,333,cite120 w. 51st st.new york212/956-7100french,1,89,lutece249 e. 50th st.new york212/752-2225french,16
+287833,334,coco pazzo23 e. 74th st.new york212/794-0205italian,1,455,san pietro18 e. 54th st.new york212/753-9015italian,16
+302112,351,ferrier29 e. 65th st.new york212/772-9000french,1,63,daniel20 e. 76th st.new york212/288-0033french,14
+302138,351,ferrier29 e. 65th st.new york212/772-9000french,1,89,lutece249 e. 50th st.new york212/752-2225french,14
+302439,351,ferrier29 e. 65th st.new york212/772-9000french,1,390,l'absinthe227 e. 67th st.new york212/794-4950french,16
+327143,380,il nido251 e. 53rd st.new york212/753-8450italian,1,67,felidia243 e. 58th st.new york212/758-1479italian,15
+327384,380,il nido251 e. 53rd st.new york212/753-8450italian,1,308,bruno240 e. 58th st.new york212/688-4190italian,16
+327509,380,il nido251 e. 53rd st.new york212/753-8450italian,1,433,palio151 w. 51st. st.new york212/245-4850italian,16
+327523,380,il nido251 e. 53rd st.new york212/753-8450italian,1,447,remi145 w. 53rd st.new york212/581-4242italian,16
+327531,380,il nido251 e. 53rd st.new york212/753-8450italian,1,455,san pietro18 e. 54th st.new york212/753-9015italian,16
+334113,388,joe allen326 w. 46th st.new york212/581-6464american,1,133,virgil's152 w. 44th st.new york212/ 921-9494american,16
+334890,389,judson grill152 w. 52nd st.new york212/582-5252american,1,47,21 club21 w. 52nd st.new york212/582-7200american,16
+336057,390,l'absinthe227 e. 67th st.new york212/794-4950french,1,351,ferrier29 e. 65th st.new york212/772-9000french,16
+347386,403,le marais150 w. 46th st.new york212/869-0900american,1,461,sfuzzi58 w. 65th st.new york212/873-3700american,16
+362536,421,monkey bar60 e. 54th st.new york212/838-2600american,1,77,jo jo160 e. 64th st.new york212/223-5656american,15
+362945,421,monkey bar60 e. 54th st.new york212/838-2600american,1,486,vong200 e. 54th st.new york212/486-9592american,16
+369662,429,orso322 w. 46th st.new york212/489-7212italian,1,299,barbetta321 w. 46th st.new york212/246-9171italian,14
+369671,429,orso322 w. 46th st.new york212/489-7212italian,1,308,bruno240 e. 58th st.new york212/688-4190italian,15
+369810,429,orso322 w. 46th st.new york212/489-7212italian,1,447,remi145 w. 53rd st.new york212/581-4242italian,15
+371154,431,otabe68 e. 56th st.new york212/223-7575asian,1,65,dawat210 e. 58th st.new york212/355-7555asian,12
+371166,431,otabe68 e. 56th st.new york212/223-7575asian,1,77,jo jo160 e. 64th st.new york212/223-5656american,15
+371420,431,otabe68 e. 56th st.new york212/223-7575asian,1,331,chiam160 e. 48th st.new york212/371-2323asian,15
+373123,433,palio151 w. 51st. st.new york212/245-4850italian,1,308,bruno240 e. 58th st.new york212/688-4190italian,16
+373195,433,palio151 w. 51st. st.new york212/245-4850italian,1,380,il nido251 e. 53rd st.new york212/753-8450italian,16
+373262,433,palio151 w. 51st. st.new york212/245-4850italian,1,447,remi145 w. 53rd st.new york212/581-4242italian,16
+383502,445,rain100 w. 82nd st.new york212/501-0776asian,1,331,chiam160 e. 48th st.new york212/371-2323asian,16
+383618,445,rain100 w. 82nd st.new york212/501-0776asian,1,447,remi145 w. 53rd st.new york212/581-4242italian,16
+385205,447,remi145 w. 53rd st.new york212/581-4242italian,1,308,bruno240 e. 58th st.new york212/688-4190italian,15
+385277,447,remi145 w. 53rd st.new york212/581-4242italian,1,380,il nido251 e. 53rd st.new york212/753-8450italian,16
+385326,447,remi145 w. 53rd st.new york212/581-4242italian,1,429,orso322 w. 46th st.new york212/489-7212italian,15
+385330,447,remi145 w. 53rd st.new york212/581-4242italian,1,433,palio151 w. 51st. st.new york212/245-4850italian,16
+385342,447,remi145 w. 53rd st.new york212/581-4242italian,1,445,rain100 w. 82nd st.new york212/501-0776asian,16
+392135,455,san pietro18 e. 54th st.new york212/753-9015italian,1,334,coco pazzo23 e. 74th st.new york212/794-0205italian,16
+392181,455,san pietro18 e. 54th st.new york212/753-9015italian,1,380,il nido251 e. 53rd st.new york212/753-8450italian,16
+397056,461,sfuzzi58 w. 65th st.new york212/873-3700american,1,77,jo jo160 e. 64th st.new york212/223-5656american,16
+397382,461,sfuzzi58 w. 65th st.new york212/873-3700american,1,403,le marais150 w. 46th st.new york212/869-0900american,16
+398173,462,shaan57 w. 48th st.new york212/ 977-8400asian,1,331,chiam160 e. 48th st.new york212/371-2323asian,14
+412632,479,tse yang34 e. 51st st.new york212/688-5447asian,1,119,seryna11 e. 53rd st.new york212/980-9393asian,15
+418631,486,vong200 e. 54th st.new york212/486-9592american,1,77,jo jo160 e. 64th st.new york212/223-5656american,14
+418647,486,vong200 e. 54th st.new york212/486-9592american,1,93,march405 e. 58th st.new york212/754-6272american,14
+418862,486,vong200 e. 54th st.new york212/486-9592american,1,308,bruno240 e. 58th st.new york212/688-4190italian,16
+418975,486,vong200 e. 54th st.new york212/486-9592american,1,421,monkey bar60 e. 54th st.new york212/838-2600american,16
+446693,518,luna si1931 peachtree rd.atlanta404/355-5993continental,1,523,palisades1829 peachtree rd.atlanta404/350-6755continental,15
+446705,518,luna si1931 peachtree rd.atlanta404/355-5993continental,1,535,tomtom3393 peachtree rd.atlanta404/264-1163continental,15
+451003,523,palisades1829 peachtree rd.atlanta404/350-6755continental,1,518,luna si1931 peachtree rd.atlanta404/355-5993continental,15
+461359,535,tomtom3393 peachtree rd.atlanta404/264-1163continental,1,518,luna si1931 peachtree rd.atlanta404/355-5993continental,15
+467441,542,bistro3400 las vegas blvd. slas vegas702/791-7111continental,1,559,mikado3400 las vegas blvd. slas vegas702/791-7111asian,13
+469169,544,bugsy's diner3555 las vegas blvd. slas vegas702/733-3111coffee shops/diners,1,561,ralph's diner3000 las vegas blvd. slas vegas702/732-6330coffee shops/diners,13
+481688,559,mikado3400 las vegas blvd. slas vegas702/791-7111asian,1,135,chin's3200 las vegas blvd. slas vegas702/733-8899asian,13
+482095,559,mikado3400 las vegas blvd. slas vegas702/791-7111asian,1,542,bistro3400 las vegas blvd. slas vegas702/791-7111continental,13
+483823,561,ralph's diner3000 las vegas blvd. slas vegas702/732-6330coffee shops/diners,1,544,bugsy's diner3555 las vegas blvd. slas vegas702/733-3111coffee shops/diners,13
+488172,566,22232223 market st.san francisco415/431-0692american,1,578,carta1772 market st.san francisco415/863-3516american,16
+498516,578,carta1772 market st.san francisco415/863-3516american,1,566,22232223 market st.san francisco415/431-0692american,16
+498562,578,carta1772 market st.san francisco415/863-3516american,1,613,one market1 market st.san francisco415/777-5577american,16
+527870,613,one market1 market st.san francisco415/777-5577american,1,578,carta1772 market st.san francisco415/863-3516american,16
+533307,619,perry's1944 union st.san francisco415/922-9022american,1,838,doidge's2217 union st.san francisco415-921-2149american,16
+615366,715,arcadia21 e. 62nd st.new york city212-223-2900american (new),1,48,21 club21 w. 52nd st.new york city212-582-7200american (new),14
+620562,721,darbar44 w. 56th st.new york city212-432-7227indian,1,66,dawat210 e. 58th st.new york city212-355-7555indian,14
+630750,732,kiev117 second ave.new york city212-674-4040ukrainian,1,762,veselka144 second ave.new york city212-228-9682ukrainian,15
+642817,746,palm837 second ave.new york city212-687-2953steakhouses,1,747,palm too840 second ave.new york city212-697-5198steakhouses,11
+643679,747,palm too840 second ave.new york city212-697-5198steakhouses,1,746,palm837 second ave.new york city212-687-2953steakhouses,11
+656610,762,veselka144 second ave.new york city212-228-9682ukrainian,1,732,kiev117 second ave.new york city212-674-4040ukrainian,15
+669823,778,moongate3400 las vegas blvd. s.las vegas702-791-7352chinese,1,136,chin's3200 las vegas blvd. s.las vegas702-733-8899chinese,14
+722085,838,doidge's2217 union st.san francisco415-921-2149american,1,619,perry's1944 union st.san francisco415/922-9022american,16
